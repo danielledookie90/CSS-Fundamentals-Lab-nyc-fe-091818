@@ -14,7 +14,12 @@ nav a{
 }
 
 figcaption{
-  text-align: center
+  text-align: center;
   font-size: smaller;
 }  
+
+#featured-property p{
+  width:800px;
+  text-align: center
+}
 
